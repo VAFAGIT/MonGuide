@@ -20,5 +20,14 @@
       
   3. Start the development server:
 $ npm run serve
-    
-    
+
+# Usage
+The platform can be accessed at http://localhost:8080. 
+You can create an account and start booking travel and activities.
+ 
+#Screenshots
+
+![Homepage](file:///C:/Users/adm/Downloads/screencapture-localhost-8080-2023-02-08-17_13_32.pdf)
+
+# Contributions
+Contributions are welcome. Please fork the repository and open a pull request with your changes.
