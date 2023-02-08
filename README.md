@@ -10,7 +10,7 @@
 
   -Node.js and npm
 
-# Installation:
+# Installation
 
   1. Clone the repository:
     https://github.com/VAFAGIT/MonGuide.git
