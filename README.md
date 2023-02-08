@@ -25,9 +25,9 @@ $ npm run serve
 The platform can be accessed at http://localhost:8080. 
 You can create an account and start booking travel and activities.
  
-#Screenshots
+# Screenshots
 
-![Homepage](file:///C:/Users/adm/Downloads/screencapture-localhost-8080-2023-02-08-17_13_32.pdf)
+![Homepage](https://ibb.co/mCcGmYX)
 
 # Contributions
 Contributions are welcome. Please fork the repository and open a pull request with your changes.
