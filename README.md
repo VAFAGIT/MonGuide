@@ -10,15 +10,15 @@
 
   -Node.js and npm
 
-#Installation:
+# Installation:
 
   1. Clone the repository:
     https://github.com/VAFAGIT/MonGuide.git
     
   2. Navigate to the project directory:
-      #cd MonGuide
+# cd MonGuide
       
   3. Start the development server:
-      #npm run serve
+ # npm run serve
     
     
