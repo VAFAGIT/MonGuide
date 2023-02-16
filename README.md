@@ -13,8 +13,7 @@
 ## Installation
 
   1. Clone the repository:
-
-    https://github.com/VAFAGIT/MonGuide.git
+    https://github.com/VAFAGIT/MonGuide.git   
     
   2. Navigate to the project directory:
  ```
