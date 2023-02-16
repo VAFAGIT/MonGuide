@@ -20,7 +20,9 @@
  $ cd MonGuide
  ```
   3. Start the development server:
+ ```
 $ npm run serve
+```
 
 # Usage
 The platform can be accessed at http://localhost:8080. 
